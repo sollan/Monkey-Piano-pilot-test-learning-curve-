@@ -8,7 +8,7 @@ Both auditory perceptual and motor training have been found to lead to changes i
 
 In this pilot experiment, you'll hear some melodies (8 notes long, 4 different notes used), and you need to reproduce the melodies using keys g,h,j,k on your keyboard. There are 3 melodies in total, and you'll hear each melody 15 times. It goes like this: beep, you hear melody A once, beep, you try to play it out on your keyboard; beep, you hear melody A again, etc. until after 15 times you start with melody B, and then melody C. _ONLY_ press the keys after hearing the "replay" beep. Your responses will help us decide on the number of repititions for each melody used in the final paradigm, in order to minimize fatigue and ensure optimal learning.
 
-##### Preliminary study design
+### Preliminary study design
 
 After a practice trial where the subject is familiarized with the experiment set-up, the subject will be presented with 10 midi-generated piano melodies in random order. The stimuli are delivered via headphones. Every melody is 12 notes long and includes 4 distinct pitches. Each note in the melody has a duration of 500 ms and is followed by 500 ms of silence. After hearing a melody once, the subject is required to reproduce the melody as accurately as possible using a 4-key keyboard placed on the table in front of them with 4 right-hand digits. The listening and reproduction trial is then repeated for the same melody. Each melody involves 10 listening and 10 reproduction trials performed intermittently. A piano note of 500 ms serves as auditory cue for the onset of every listening and reproduction trial. After finishing all trials for a given melody, the subject may have a self-paced break.
 
