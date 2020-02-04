@@ -17,7 +17,11 @@ We plan to record data from 20 healthy subjects for this study. Electroencephalo
 ##### References:
 
 [1] Alain, C., Snyder, J. S., He, Y., & Reinke, K. S. (2007). Changes in auditory cortex parallel rapid perceptual learning. Cerebral Cortex, 17(5), 1074-1084. https://doi.org/10.1093/cercor/bhl018
+</br>
 [2] Ross, B., Barat, M., & Fujioka, T. (2017). Sound-making actions lead to immediate plastic changes of neuromagnetic evoked responses and induced β-band oscillations during perception. Journal of Neuroscience, 37(24), 5948-5959. https://doi.org/10.1523/JNEUROSCI.3613-16.2017
+</br>
 [3] de Souza, A. C. S., Yehia, H. C., Sato, M. A., & Callan, D. (2013). Brain activity underlying auditory perceptual learning during short period training: simultaneous fMRI and EEG recording. BMC neuroscience, 14(1), 8. https://doi.org/10.1186/1471-2202-14-8
+</br>
 [4] Bangert, M., & Altenmüller, E. O. (2003). Mapping perception to action in piano practice: a longitudinal DC-EEG study. BMC neuroscience, 4(1), 26. https://doi.org/10.1186/1471-2202-4-26
+</br>
 [5] Haueisen, J., & Knösche, T. R. (2001). Involuntary motor activity in pianists evoked by music perception. Journal of cognitive neuroscience, 13(6), 786-792. https://doi.org/10.1162/08989290152541449
