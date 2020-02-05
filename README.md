@@ -1,5 +1,11 @@
 # Monkey-Piano-pilot-test-learning-curve-
 
+## Set-up
+
+Please follow this [link](http://simp.ly/p/3zZdhG).
+
+## Background
+
 Both auditory perceptual and motor training have been found to lead to changes in underlying neural activity [1, 2]. However, there has been little research on single trial variations of neural activity during auditory learning [3], which has implications for brain-computer interfaces and may help us better understand the encoding and storage of auditory and motor memory. Moreover, auditory and motor processes are known to be closely linked [4, 5]. Therefore, a paradigm that allows the comparison of neural correlates during related perceptual and motor tasks might provide insight into the interaction between sensory and motor systems. In this study, we will analyze the EEG event-related potential components during the perceptual and motor learning of novel music stimuli to identify markers for auditory-related learning.
 
 ### Instructions for this pilot study paradigm
